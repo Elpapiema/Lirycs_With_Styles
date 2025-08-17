@@ -9,15 +9,7 @@ pip install -r requirements.txt
 ```
 Para la Version estandar usa
 ```
-python app.py
-```
-Version Tipo karaoke
-```
-python app3.py
-```
-Version Tipo Karaoke Remasterizado
-```
-python app6.py
+python menu.py
 ```
 # Importante
 
